@@ -1,3 +1,5 @@
+.idea
+.gradle
 nbproject/private
 build/
 dist/
